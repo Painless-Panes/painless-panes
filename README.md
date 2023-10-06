@@ -5,8 +5,8 @@
 This project consists of three repostitories:
 
 1. Painless Panes (this repo) implements the app itself
-2. [Painless Panes CV](https://github.com/avcopan/painless-panes-cv) implements the computer vision API used by the app
-3. [Painless Panes Model](https://github.com/avcopan/painless-panes-model) provides scripts for generating and updating the Painless Panes window detection model, which is used by the computer vision API
+2. [Painless Panes CV](https://github.com/Painless-Panes/painless-panes-cv) implements the computer vision API used by the app
+3. [Painless Panes Model](https://github.com/Painless-Panes/painless-panes-model) provides scripts for generating and updating the Painless Panes window detection model, which is used by the computer vision API
 
 ## Accounts Needed
 
